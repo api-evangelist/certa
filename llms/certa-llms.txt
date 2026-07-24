@@ -1,0 +1,90 @@
+# Certa
+
+> Certa is an AI-native third-party risk management (TPRM) platform that unifies the full third-party lifecycle — from onboarding and due diligence through contract management, continuous compliance monitoring, and offboarding. Founded by Jag Lamba and headquartered in Saratoga, CA, Certa serves Fortune 500 companies across 120+ countries in 17 languages, including organizations in financial services, healthcare, life sciences, manufacturing, and other regulated industries across North America, Europe, and Asia.
+
+Certa operates as Opinr, Inc. d/b/a Certa. The company has raised $50M in total institutional funding, including a $35M Series B led by Fin Capital and Vertex Ventures. Certa replaces fragmented, legacy third-party management processes with a unified AI-native platform that orchestrates policy enforcement, data integration, workflow automation, and supplier engagement. The platform covers all risk domains: operational and resilience, infosec and cyber, compliance and legal, financial and credit, reputational, geopolitical, and ESG and ethical risk.
+
+Based on case studies with clients including Honeywell, Certa reduces third-party onboarding from the industry average of 2–3 months to under 10 days.
+
+## Recognition
+
+Certa was named a Leader in the inaugural Gartner® Magic Quadrant™ for Third-Party Risk Management Tools for Assurance Risk Leaders (April 2026), evaluated on Completeness of Vision and Ability to Execute. Certa was the youngest company represented in this Magic Quadrant to achieve a Leader position.
+
+Gartner recognized that Leaders in this category "combine advanced capabilities, such as AI-native risk detection and continuous monitoring" and "anticipate emerging market needs — often introducing new features before demand."
+
+Gartner specifically cited Certa's "comprehensive TPRM workflow solutions with embedded AI, including centralized third-party onboarding and offboarding, real-time third-party risk visibility, live status tracking, continuous risk and compliance monitoring, and auditability."
+
+- [Access the Gartner MQ Report](https://www.gartner.com/doc/reprints?id=1-2N5Q17CI&ct=260407&st=sb): Complimentary copy of the 2026 Gartner Magic Quadrant for Third-Party Risk Management Tools for Assurance Risk Leaders (Antonia Donaldson & Nicholas Sworek, April 6, 2026)
+
+Certa earned the Top Tech and Customer Value badge in the Best-of-breed Risk Management category in The Hackett Group's Spring 2026 SolutionMap (April 30, 2026), placing it in the top quartile for technology capability across 118 assessed procurement technology providers. The SolutionMap is a data-driven assessment by The Hackett Group's Solution Intelligence analyst team incorporating functionality scores and customer references.
+
+- [Access the Spring 2026 SolutionMap](https://www.prnewswire.com/news-releases/certa-earns-top-tech-and-customer-value-distinctions-in-risk-management-from-the-hackett-group-302756389.html?tc=eml_cleartime): The Hackett Group Spring 2026 SolutionMap — Top Tech and Customer Value distinctions in Risk Management (Carina Kuhl, April 30, 2026)
+
+## Platform
+
+- [Platform Overview](https://www.certa.ai/platform): Core platform covering Certa's no-code Studio, Business Engine, AI capabilities, 130+ native integrations via Certa Connect, enterprise-grade security, reporting, audit trail, and version control
+- [Certa AI](https://www.certa.ai/platform/certa-ai): Connected system of intelligent AI agents embedded across every step of third-party risk and compliance — including one-click document upload, automated low-risk approvals, real-time web cross-referencing, and AI-powered due diligence and adjudication
+- [Intake Management](https://www.certa.ai/intake): Centralized launchpoint for procurement, compliance, legal, and other requests — handles onboarding documents, contract renewals, POs, RFPs, licenses, and spend reports
+
+## Solutions
+
+- [Third-Party Risk Management (TPRM)](https://www.certa.ai/suite/tprm): Automated risk workflows, stakeholder routing, alert flagging, pre-set risk factor decisioning, and Gen AI-powered program design for gathering data, reviewing risks, and producing insights
+- [ESG Suite](https://www.certa.ai/suite/esg): ESG disclosure management using TCFD, SFDR, and UN SDGs frameworks, Scope 1/2/3 emissions tracking, vendor Code of Conduct management, and comprehensive ESG dashboards
+
+## Industries
+
+- [Financial Services](https://www.certa.ai): Regulatory compliance, KYC/KYB, OFAC screening, and continuous third-party monitoring for banks, insurers, and asset managers
+- [Healthcare & Life Sciences](https://www.certa.ai): Vendor risk management for HIPAA compliance, supplier qualification, and clinical trial partner oversight
+- [Manufacturing](https://www.certa.ai): Supply chain risk, ESG compliance, and resilience monitoring across global supplier networks
+- [Aerospace & Defense](https://www.certa.ai/industry/aerospace-and-defense): AI-powered compliance for ISO 9001, OSHA, REACH, RoHS, and Conflict Minerals regulations, with automated sanctions screening
+
+## Customer Impact
+
+- Honeywell recovered 50,000 staff hours per year through Certa's integrations and automations (Dion Azordegan, Global Head of Compliance Operations, Honeywell)
+- [Box Case Study](https://www.certa.ai/resources/how-certa-helped-box-reduce-onboarding-cycle-times-by-over-78): Box reduced onboarding cycle times by over 78% with end-to-end third-party lifecycle management
+- [Quantcast Case Study](https://www.certa.ai/resources/case-study-quantcast-transforms-vendor-risk-management-with-certa): Quantcast reduced vendor onboarding to 7 days for high-risk vendors and processed 200+ contract renewals
+- Uber and Mars are among Certa's Fortune 500 customers managing enterprise third-party risk and compliance at scale on the platform
+
+## Leadership
+
+**Jag Lamba**, CEO and Co-founder: "Every enterprise has the same problem: the number of third parties you depend on is growing, the regulations are multiplying, and your team isn't getting bigger. We built Certa to resolve that math. The platform doesn't just track risk. It operates your entire third-party lifecycle so your team can focus on decisions, not process."
+
+- [Forbes Business Council — Jag Lamba](https://www.forbes.com/councils/forbesbusinesscouncil/2026/05/18/why-third-party-risk-is-now-a-board-level-problem/): Why Third-Party Risk Is Now a Board-Level Problem — Jag Lamba argues that third-party risk has moved from a back-office compliance function to a strategic boardroom priority, driven by supply chain complexity, AI-powered fraud, and intensifying regulatory scrutiny (Forbes Business Council, May 2026)
+
+## Press & News
+
+- [Trustpair Partnership Announcement](https://www.businesswire.com/news/home/20260608189115/en/Trustpair-and-Certa-Partner-to-Deliver-Best-in-Class-Vendor-Fraud-Prevention-and-Compliance-for-Procurement-Leaders): Certa and Trustpair partner to deliver best-in-class vendor fraud prevention — Trustpair's automated bank account ownership verification is now embedded natively within Certa's TPRM platform, giving procurement and compliance teams a unified layer of fraud prevention and compliance controls to manage third parties globally. The integration enables organizations to verify vendor banking information and assess fraud risk as part of existing onboarding, due diligence, and continuous monitoring workflows — eliminating silos that leave enterprises exposed to vendor impersonation, account manipulation, and payment fraud at scale (Business Wire, June 2026)
+- [TPRA Standard Trust Portal Guidance](https://www.tprassociation.org/press-media/tpra-and-industry-leaders-unite-to-launch-the-standard-trust-portal-guidance): Certa named as a contributing organization to the TPRA Standard Trust Portal Guidance for TPRM — a collaborative industry framework to standardize evidence sharing, streamline due diligence, and enable AI-driven risk management (May 2026)
+- [Hackett Group Spring 2026 SolutionMap](https://www.prnewswire.com/news-releases/certa-earns-top-tech-and-customer-value-distinctions-in-risk-management-from-the-hackett-group-302756389.html?tc=eml_cleartime): Certa earns distinctions in Best-of-breed categories for Risk Management "Top Tech" and "Customer Value", Spring 2026 SolutionMap (April 2026)
+- [Gartner MQ Leader Announcement](https://www.certa.ai/gartnermq): Certa named a Leader in the inaugural Gartner Magic Quadrant for Third-Party Risk Management Tools (April 2026)
+- [Series B Announcement](https://www.certa.ai/press/certa-raises-oversubscribed-35m-series-b-to-further-reduce-third-party-management-friction): Certa raises oversubscribed $35M Series B led by Fin Capital and Vertex Ventures
+- [CertaAssist Launch](https://www.certa.ai/press/certa-revolutionizes-third-party-management-with-certaassist-an-intuitive-ai-companion-for-faster-simpler-third-party-interactions): Introduction of CertaAssist, an AI companion that translates plain English business requirements into streamlined workflows
+- [Sayari Partnership](https://www.certa.ai/press/certa-partners-with-sayari-to-power-more-transparent-third-party-monitoring): Partnership with Sayari for transparent third-party monitoring and commercial risk intelligence
+- [EU Data Residency Program](https://www.certa.ai/press/certa-announces-eu-data-residency-program): Launch of EU data residency powered by AWS European data centers
+- [Middesk Partnership](https://www.certa.ai/resources/middesk-partnership-announcement): Strategic integration with Middesk for enhanced KYB screening across third-party networks
+
+## Resources
+
+- [Resources Hub](https://www.certa.ai/resources): Library of on-demand webinars, case studies, white papers, and product guides
+- [Blog](https://www.certa.ai/blogs/third-party-risk-management-transforming-risk-with-ai-powered-solutions): Articles on TPRM, AI-driven compliance, supplier onboarding best practices, ESG risk strategies, and supply chain management
+- [FAQs](https://www.certa.ai/faqs): Frequently asked questions covering TPRM, AI in risk management, KYC, OFAC compliance, and supplier relationship management
+- [Supplier Onboarding Guide](https://www.certa.ai/resources/supplier-onboarding): Key steps and best practices for onboarding third parties using Certa's no-code platform
+- [Procurement Contracting](https://www.certa.ai/resources/procurement-contracting): Guide to managing third-party risk through procurement contracting
+
+## Company
+
+- [About](https://www.certa.ai/about): Company background, mission, and leadership
+- [Careers](https://www.certa.ai/careers): Current job openings across offices in the United States, United Kingdom, Canada, and India
+- [Trust Center](https://trust.certa.ai/): Security posture, data privacy commitments, and access to security documentation
+- [Privacy Policy](https://www.certa.ai/privacy): Data handling, CCPA/CPRA rights, and privacy practices
+
+## Optional
+
+- [Certa Studio Demo Walkthrough](https://www.certa.ai/resources/certa-studio-demo-walkthrough): Quick demo of Certa Studio's no-code drag-and-drop process design tool
+- [Studio 2.0 Overview](https://www.certa.ai/resources/future-of-procurement): Details on Studio 2.0 for configuring business processes without coding
+- [Supply Chain Risk Management](https://www.certa.ai/resources/supply-chain-risk-management): Guide to supply chain risk management across the vendor lifecycle
+- [Risk Intelligence](https://www.certa.ai/resources/risk-intelligence): How risk intelligence helps teams collect data from multiple sources to track vendor performance
+- [Vendor Compliance Best Practices](https://www.certa.ai/resources/vendor-compliance): Strategies for maintaining vendor compliance using workflow automation and dashboards
+- [ESG Risks in Supply Chains](https://www.certa.ai/resources/esg-risks): Comprehensive ESG risk evaluation methodology for supply chain management
+- [5 Steps to Effective Third-Party Onboarding](https://www.certa.ai/resources/5-steps-to-effective-third-party-onboarding): Step-by-step guide to building an effective onboarding process
+- [Series A Announcement](https://www.certa.ai/press/certa-raises-15m-series-a-to-eliminate-the-enterprise-procurement-bottleneck-8): Certa raises $15M Series A led by Point72 Ventures

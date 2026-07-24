@@ -1,7 +1,20 @@
 aid: certa
 name: Certa
-description: Certa is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Certa (operated by Opinr, Inc. d/b/a Certa) is an AI-native third-party risk
+  management (TPRM) and compliance platform that unifies the full third-party
+  lifecycle — onboarding, due diligence, contract management, continuous
+  compliance monitoring, and offboarding — in a single no-code system. Founded
+  by Jag Lamba and headquartered in Saratoga, CA, Certa serves Fortune 500
+  companies (Honeywell, Uber, Mars, Box, Quantcast) across 120+ countries and 17
+  languages. The platform covers all risk domains — operational and resilience,
+  infosec and cyber, compliance and legal, financial and credit, reputational,
+  geopolitical, and ESG and ethical risk — via its Studio no-code process
+  designer, Certa Connect (130+ native integrations), and embedded AI agents.
+  Certa was named a Leader in the inaugural 2026 Gartner Magic Quadrant for
+  Third-Party Risk Management Tools. External integration is available through an
+  enterprise external API surfaced from the platform; no public OpenAPI or
+  developer portal is published as of this profile.
 url: https://raw.githubusercontent.com/api-evangelist/certa/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +22,32 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://cdn.prod.website-files.com/6820bfdc9a298d11ce76fdd3/68dea4c2fc5c5f9163323e9e_Certa.ai.jpg
 tags:
 - Company
+- Third-Party Risk Management
+- TPRM
+- Compliance
+- Procurement
+- Vendor Management
+- Risk Management
+- ESG
+- KYC
+- Supplier Onboarding
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +55,28 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: TrustCenter
+  url: security/certa-trust-center.yml
+- type: Compliance
+  url: https://trust.certa.ai/
+- type: DomainSecurity
+  url: security/certa-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/certa-vulnerability-disclosure.yml
+- type: Security
+  url: security/certa-vulnerability-disclosure.yml
+- type: LLMsTxt
+  url: llms/certa-llms.txt
 - type: Website
-  url: https://getcerta.com/
+  url: https://www.certa.ai/
+- type: Blog
+  url: https://www.certa.ai/blogs/third-party-risk-management-transforming-risk-with-ai-powered-solutions
+- type: PrivacyPolicy
+  url: https://www.certa.ai/privacy
+- type: TermsOfService
+  url: https://www.certa.ai/terms-of-service
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

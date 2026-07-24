@@ -1,0 +1,31 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://trust.certa.ai/
+url: https://trust.certa.ai/
+certifications:
+- SOC 1 Type 2
+- SOC 2 Type 2
+- ISO/IEC 27001:2022
+- GDPR
+features:
+- Downloadable compliance documentation (SOC reports, penetration test summaries)
+- Product security details (audit logging, MFA, RBAC)
+- Data security (encryption at rest, backups, access monitoring)
+- External security grades (SecurityScorecard, Qualys SSL Labs)
+- Policy documentation (ESG, incident response, risk management)
+responsible_disclosure:
+  contact: it@getcerta.com
+  provider: SafeBase
+  note: "If you think you may have discovered a vulnerability, please send us a note."
+support_contact: care@getcerta.com
+subprocessor_list: false
+evidence:
+- source: https://trust.certa.ai/
+  keywords:
+  - soc 1 type 2
+  - soc 2 type 2
+  - iso/iec 27001:2022
+  - gdpr
+  - trust center
+  - responsible disclosure
