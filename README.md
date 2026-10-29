@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Certa is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Certa (operated by Opinr, Inc. d/b/a Certa) is an AI-native third-party risk management (TPRM) and compliance platform that unifies the full third-party lifecycle — onboarding, due diligence, contract management, continuous compliance monitoring, and offboarding — in a single no-code system. Founded by Jag Lamba and headquartered in Saratoga, CA, Certa serves Fortune 500 companies (Honeywell, Uber, Mars, Box, Quantcast) across 120+ countries and 17 languages. The platform covers all risk domains — operational and resilience, infosec and cyber, compliance and legal, financial and credit, reputational, geopolitical, and ESG and ethical risk — via its Studio no-code process designer, Certa Connect (130+ native integrations), and embedded AI agents. Certa was named a Leader in the inaugural 2026 Gartner Magic Quadrant for Third-Party Risk Management Tools. External integration is available through an enterprise external API surfaced from the platform; no public OpenAPI or developer portal is published as of this profile.
 
-Backed by: techstars — https://getcerta.com/
+**Areas:** Company · Third-Party Risk Management · Compliance · Procurement · Vendor Management · Risk Management · ESG · KYC · Supplier Onboarding
+
+## Certa on APIs.io
+
+Everything profiled for Certa is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/certa/](https://apis.io/providers/certa/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Certa Domain Security](https://apis.io/security/certa/certa-domain-security/)
+- [Certa Trust Center](https://apis.io/security/certa/certa-trust-center/)
+- [Certa Vulnerability Disclosure](https://apis.io/security/certa/certa-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.certa.ai/)
+- [Blog](https://www.certa.ai/blogs/third-party-risk-management-transforming-risk-with-ai-powered-solutions)
+- [Compliance](https://trust.certa.ai/)
+- [Terms of service](https://www.certa.ai/terms-of-service)
+- [Privacy policy](https://www.certa.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 16.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 36.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/certa/](https://apis.io/providers/certa/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Certa: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/certa/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
